@@ -1,0 +1,26 @@
+# Arquivos gerados pelo Maven
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+
+# Arquivos de metadados do Eclipse IDE
+.project
+.classpath
+.settings/
+
+# Diretório de binários padrão do Eclipse
+/bin/
+
+# Arquivos de log
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários de IDEs
+*~
+*.swp
